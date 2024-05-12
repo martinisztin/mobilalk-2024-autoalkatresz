@@ -2,6 +2,8 @@
 
 A projekt brutálisan a követelmények teljesítésére van optimalizálva.
 
+Ha Android Studios emulátorral javítod és valamelyik Pixel eszközt használod, akkor ne felejtsd el engedélyezni az értesítéseket az apptól a beállításokban!!!
+
 ## Pici infók a pontozáshoz
 
 - Hibák *tán* nincsenek.

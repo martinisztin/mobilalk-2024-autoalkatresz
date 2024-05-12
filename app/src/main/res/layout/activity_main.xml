@@ -36,7 +36,7 @@
 
     <Button
         android:id="@+id/backButton"
-        android:layout_width="160dp"
+        android:layout_width="wrap_content"
         android:layout_height="@dimen/defaultHeight"
         android:onClick="login"
         android:text="@string/login"
