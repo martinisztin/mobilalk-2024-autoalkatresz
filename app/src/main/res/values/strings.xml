@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">AutoAlkatresz</string>
+    <string name="email">Email</string>
+    <string name="password">Jelszó</string>
+    <string name="login">Bejelentkezés</string>
+    <string name="register">Regisztráció</string>
+    <string name="continueGuest">Folytatás vendégként</string>
+    <string name="back">Vissza</string>
+    <string name="fullname">Teljes név</string>
+    <string name="passwordAgain">Jelszó újra</string>
+    <string name="postAddress">Lakcím</string>
+    <string name="item_placeholder">Tárgy név</string>
+    <string name="item_info_placeholder">Leírás</string>
+    <string name="toCart">Kosárba</string>
+    <string name="settings">Beállítások</string>
+    <string name="logout">Kijelentkezés</string>
+    <string name="cart">Kosár</string>
+    <string name="search">Keresés</string>
+    <string name="view">Nézet</string>
+    <string name="price_placeholder">Összesen: 0 Ft</string>
+    <string name="checkout">Fizetés</string>
+    <string name="remove">Törlés</string>
+
+    <string-array name="shopping_item_names">
+        <item>Aktívszenes pollenszűrő</item>
+        <item>Fészket rakó dög</item>
+        <item>Univerzális gyújtógyertya</item>
+        <item>Hajtókar csapágy</item>
+        <item>Légbeömlő cső</item>
+        <item>Racse légszűrő</item>
+        <item>Menő olajszűrő</item>
+        <item>Modern Éndzsöláj fényszóró</item>
+        <item>Nem rak fészket</item>
+        <item>Szélvédőmosó</item>
+        <item>Diffúzor (akár fogyatékosoknak is)</item>
+        <item>Nyóc sebességes kéziváltó</item>
+
+
+    </string-array>
+
+    <string-array name="shopping_item_desc">
+        <item>A pollent szűrni kell, különben egész nap hapcizol. Ez egy menő termék, hát még így, hogy AKTÍVSZENES.</item>
+        <item>a kurva anyját</item>
+        <item>Nem csak a levegő-benzin keveréket gyújtja be, hanem bármit!</item>
+        <item>Szívesen bemutatkozik ez az acél minőségű nukleáris hulladék</item>
+        <item>Rángat a kocsid? Engem már az ideg rángat, de ha neked a kocsid, akkor vegyél ilyet, biztos farsot szív.</item>
+        <item>Szigorúan 1.4 szívó MK4-es VW Polora ajánlott!</item>
+        <item>Olyan menő, hogy szűr</item>
+        <item>Á tesó, ez kajak jól néz ki, én megvenném</item>
+        <item>jo arc</item>
+        <item>Ki tudja hány macska sétál át a szélvédőn amíg alszol.</item>
+        <item>Nincs szabályozás, hogy hány lóerős és milyen hajtású pussydestroyer wagonra teszed ezt a modifikációt!</item>
+        <item>na ilyet biztos nem láttál még! Vásárlói vélemény: "amióta beszereltem a clioba 1 litert fogyaszt, mert 100-as tempoban 1000 RPM-mel forog a motor."</item>
+    </string-array>
+
+    <array name="shopping_item_rates">
+        <item>3.5</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3.5</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3.5</item>
+        <item>4</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3.5</item>
+        <item>5</item>
+    </array>
+
+    <array name="shopping_item_images">
+        <item>@drawable/aktivszenes_pollenszuro</item>
+        <item>@drawable/feszket_rako_dog</item>
+        <item>@drawable/gyujtogyertya</item>
+        <item>@drawable/hajtokar_csapagy</item>
+        <item>@drawable/legbeomlo_cso</item>
+        <item>@drawable/legszuro</item>
+        <item>@drawable/meno_olajfilter</item>
+        <item>@drawable/modern_fenyszoro</item>
+        <item>@drawable/nem_rak_feszket</item>
+        <item>@drawable/szelvedomoso</item>
+        <item>@drawable/diffuzor</item>
+        <item>@drawable/kezivalto</item>
+    </array>
+
+    <array name="shopping_item_price">
+        <item>10000 Ft</item>
+        <item>150 Ft</item>
+        <item>50000 Ft</item>
+        <item>12500 Ft</item>
+        <item>15300 Ft</item>
+        <item>50100 Ft</item>
+        <item>20000 Ft</item>
+        <item>1500 Ft</item>
+        <item>2000 Ft</item>
+        <item>1400 Ft</item>
+        <item>10000 Ft</item>
+        <item>50000 Ft</item>
+    </array>
+</resources>
